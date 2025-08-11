@@ -1,40 +1,40 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Lucas Melquiades de Menezes Oliveira",
+  "photo": "https://avatars.githubusercontent.com/u/11821533?v=4",
+  "job": "Front End Developer | Web Designer | Wordpress",
+  "location": "São Vicente - SP",
+  "phone": "(13) 98175-1183",
+  "email": "lucas-1106@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "GIT",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Otimismo",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -42,37 +42,35 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Formulario utilizando CRUD e Localstorage",
+      "url": "https://github.com/LucasMelquiades/Formulario-utilizando-CRUD-e-Localstorage",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Apresentação de Pokedex de Pokemon da Primeira Geração",
+      "url": "https://github.com/LucasMelquiades/js-developer-pokedex",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Web Designer / Minha ME Digital",
+      "period": "2022 - 2025",
+      "description": "Desenvolvimento e prototipação de sites utilizando pacote adobe e diagramação de páginas no wordpress usando o plugin elementor em conjunto com implementações para estruturação do site (bibliotecas como bootstrap, jquery e aplicando as linguagens html5, css3 e javascript em toda diagramação), com foco em sempre garantir que toda estrutura atenda conceitos de UX para melhorar performance e acessibilidade em todo o projeto."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desevenvolvedor Front End / Phoenix-Santos",
+      "period": "2019 - 2022",
+      "description": "Desenvolvimento de sites e diagramação de views no framework MVC codeigniter, usando conceitos de UX na diagramação das páginas, e uso de bibliotecas e plugins em javascript para validar formulários e automatizar a utilização do sistema pelo usuário final. Criação de artes para mídias sociais e diagramação de E-mail Marketing utilizando Mail Chimp."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Desevenvolvedor Front End / Backsite",
+      "period": "2018 - 2019",
+      "description": "Desenvolver páginas web para desktop e dispositivos móveis, integrar páginas com serviço, usar o framework da empresa para automatizar serviços, desenvolvimento e testes para melhorar desempenho de sites, diagramação de sites e criação de componentes no framework da empresa."
     }
   ]
 }
