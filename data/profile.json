@@ -46,6 +46,11 @@
   ],
   "portfolio": [
     {
+      "name": "Apresentação de Portfólio Completo",
+      "url": "https://lucasmelquiades.github.io/",
+      "github": true
+    },
+    {
       "name": "Formulario utilizando CRUD e Localstorage",
       "url": "https://github.com/LucasMelquiades/Formulario-utilizando-CRUD-e-Localstorage",
       "github": true
